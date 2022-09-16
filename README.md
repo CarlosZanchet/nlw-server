@@ -1,0 +1,3 @@
+Aplicação backend realizada durante a semana do NLW da rocketseat
+
+foi desenvolvido um backend em node utilizando prisma e SQLite...
